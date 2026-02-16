@@ -1,3 +1,4 @@
+
 const products = [
     {
         id:1,
@@ -56,7 +57,6 @@ const products = [
         description: "Smartwatch with featured options like fitness-tracking and other"
     },
 ]
-
 export function getProducts(){
     return products
 }
