@@ -33,7 +33,6 @@ function onSubmit(data){
         setError(result.error)
     }
 
-    console.log(result);
     
 }
 
